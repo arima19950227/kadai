@@ -113,6 +113,34 @@ header {
 
 }
 
+.main-visual-content1 {
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.main-visual-content2 {
+  height:200px;
+  background-image: url(img/box2.jpg);
+  background-position: center;
+
+}
+
+.main-visual-content3 {
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-position: center;
+
+}
+
+.main-visual-content4 {
+  height: 200px;
+  background-image: url(img/box4.jpg);
+  background-position: center;
+
+}
+
 footer {
  width: 100%;
  height:120px;
@@ -121,6 +149,7 @@ footer {
  line-height: 120px;
 
 }
+
 
 .footer-text {
   color: #ffff;
