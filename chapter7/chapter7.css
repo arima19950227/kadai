@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 400px;
+  background-image: url(img/mvm.jpg);
+  background-position: bottom;
+  background-size: cover;
+
+}
+
+.head-line {
+  padding-top: 20px;
+  padding-left: 20px;
+
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+
+}
+
+.main-content {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+
+
+}
